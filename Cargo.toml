@@ -1,0 +1,17 @@
+[package]
+name = "swagger-utils"
+version = "0.1.0"
+authors = ["qiuchengxuan@gmail.com"]
+description = "Swagger utils"
+license = "Apache-2.0"
+
+[dependencies]
+derive_more = "0.99"
+enum-map = "0.6"
+lazy_static = "1.4"
+maplit = "0.1"
+rand = "0.7"
+serde = "1.0"
+serde_derive = "1.0"
+serde_yaml = "0.8"
+yaml-rust = "0.4"
